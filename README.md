@@ -63,9 +63,11 @@
 
 ###
 
-> "Consistência é o lugar das mentes sem graça"
-> -Yuval Noah Harari
-> Então pense diferente quando for criar soluções!
+<blockquote>
+  <p>Consistência é o lugar das mentes sem graça </p>
+  <p>-Yuval Noah Harari</p>
+  <p>Então pense diferente quando for criar soluções!</p>
+</blockquote>
 
 ###
 
