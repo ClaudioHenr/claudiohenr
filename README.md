@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Não da para aprender tudo, haha<br>Mas tenho confiança e experiencia de desenvolvimento em</h3>
+<h3 align="left">Não da para aprender tudo, haha<br>Mas tenho confiança e experiência de desenvolvimento em</h3>
 
 ###
 
@@ -63,7 +63,9 @@
 
 ###
 
-<p align="left">"Consistência é o lugar das mentes sem graça" <br>-Yuval Noah Harari<br><br>Então pense diferente quando for criar soluções!</p>
+> "Consistência é o lugar das mentes sem graça"
+> -Yuval Noah Harari
+> Então pense diferente quando for criar soluções!
 
 ###
 
