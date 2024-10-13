@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Um Desenvolvedor Full Stack que ama café</h2>
+<h3 align="left">Um Desenvolvedor Full Stack que ama café</h3>
 
 ###
 
@@ -14,14 +14,14 @@
 
 ###
 
-<h3 align="left">Não da para aprender tudo, haha<br>Mas tenho confiança e experiência de desenvolvimento em</h3>
+<h2 align="left">Não da para aprender tudo, haha<br>Mas tenho confiança e experiência de desenvolvimento em</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="60" alt="angularjs logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="60" alt="spring logo"  />
 </div>
 
 ###
