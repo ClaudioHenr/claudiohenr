@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="left">Olá, eu sou Claudio Henrique</h1>
 
-<!--
-**ClaudioHenr/ClaudioHenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Um Desenvolvedor Full Stack que ama café</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/claudio-oliveira20" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Não da para aprender tudo, haha<br>Mas tenho confiança e experiencia de desenvolvimento em</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+</div>
+
+###
+
+<p align="left">Aprendendo...</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" height="40" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left">Aquelas estatística que os gerentes sempre pedem</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioHenr&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioHenr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Sempre crie o template antes de começar as telas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<p align="left">"Consistência é o lugar das mentes sem graça" <br>-Yuval Noah Harari<br><br>Então pense diferente quando for criar soluções!</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=82a1493b0dli8nmbsw6s3y3ipf9j2voq7yz5m62pef9y1iqx&ep=v1_gifs_related&rid=200w.gif&ct=g"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ClaudioHenr/count.svg?"  />
+</div>
+
+###
