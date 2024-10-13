@@ -63,13 +63,14 @@
 
 ###
 
-<hr noshade />
+<hr size=1 />
 
 <blockquote>
   <p>Consistência é o lugar das mentes sem graça -Yuval Noah Harari</p>
 </blockquote>
 <p>Então pense diferente quando for criar soluções!</p>
-<hr noshade />
+
+<hr size=1 />
 
 ###
 
