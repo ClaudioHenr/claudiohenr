@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">Aquelas estatística que os gerentes sempre pedem</h3>
+<h2 align="left">Aquelas estatísticas</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">Sempre crie o template antes de começar as telas</h3>
+<h2 align="left">Sempre crie o template antes de começar as telas</h2>
 
 ###
 
@@ -62,6 +62,8 @@
 </div>
 
 ###
+
+<hr />
 
 <blockquote>
   <p>Consistência é o lugar das mentes sem graça -Yuval Noah Harari</p>
