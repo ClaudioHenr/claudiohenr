@@ -70,7 +70,6 @@
 </blockquote>
 <p>Então pense diferente quando for criar soluções!</p>
 
----
 
 ###
 
