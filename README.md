@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Não da para aprender tudo haha<br>Mas tenho confiança e experiência de desenvolvimento em</h2>
+<h2 align="left">Experiência de desenvolvimento em</h2>
 
 ###
 
